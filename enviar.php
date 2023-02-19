@@ -7,8 +7,8 @@ $telefono = $_POST['telefono'];
 $mensaje = $_POST['mensaje'];
 
 // Datos para el correo
-$destinatario = "welneredgardo@gmail.com";
-$asunto = "Contact from our website";
+$destinatario = "codytron.info@gmail.com";
+$asunto = "Contacto desde nuestra web";
 
 $carta = "De: $nombre \n";
 $carta .= "Correo: $correo \n";
